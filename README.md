@@ -18,3 +18,4 @@ Pt. Maxpos Prima
 Sekretaris
 Karang Taruna
 Hard Skills
+microsoft office
