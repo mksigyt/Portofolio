@@ -25,3 +25,4 @@ Data Entry
 Penyusunan Laporan
 Soft Skills
 Komunikasi Efektif
+Manajemen Waktu
