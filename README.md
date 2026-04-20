@@ -31,3 +31,4 @@ Teliti
 Detail Oriented
 Problem Solving
 Pendidikan 
+SDN 1 Kota
