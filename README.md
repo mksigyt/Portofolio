@@ -38,3 +38,4 @@ Jurusan
 Kimia Industri
 Universitas Negeri Kota
 Prodi
+Akutansi
