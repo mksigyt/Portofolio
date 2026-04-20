@@ -40,3 +40,4 @@ Universitas Negeri Kota
 Prodi
 Akutansi
 IPK
+3.13
