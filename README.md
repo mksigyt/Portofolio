@@ -37,3 +37,4 @@ SMKN 1 Kota
 Jurusan
 Kimia Industri
 Universitas Negeri Kota
+Prodi
