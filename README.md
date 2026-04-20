@@ -44,3 +44,4 @@ IPK
 Pendidikan S2
 Universitas Negeri 
 Prodi
+Ilmu Ekonomi
