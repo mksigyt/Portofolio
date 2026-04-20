@@ -29,3 +29,4 @@ Manajemen Waktu
 Kerja sama Tim
 Teliti
 Detail Oriented
+Problem Solving
