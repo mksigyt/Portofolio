@@ -13,3 +13,4 @@ DPRD Kota
 DPRD Provinsi
 DPRD Pusat
 Gubernur
+Wali Kota
