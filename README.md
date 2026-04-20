@@ -14,3 +14,4 @@ DPRD Provinsi
 DPRD Pusat
 Gubernur
 Wali Kota
+Pt. Maxpos Prima
