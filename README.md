@@ -46,3 +46,4 @@ Universitas Negeri
 Prodi
 Ilmu Ekonomi
 Fakultas Bisnis
+IPK
