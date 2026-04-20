@@ -26,3 +26,4 @@ Penyusunan Laporan
 Soft Skills
 Komunikasi Efektif
 Manajemen Waktu
+Kerja sama Tim
