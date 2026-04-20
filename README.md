@@ -34,3 +34,4 @@ Pendidikan
 SDN 1 Kota
 SMPN 1 Kota
 SMKN 1 Kota
+Jurusan
