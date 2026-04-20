@@ -43,3 +43,4 @@ IPK
 3.13
 Pendidikan S2
 Universitas Negeri 
+Prodi
