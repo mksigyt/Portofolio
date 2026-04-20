@@ -30,3 +30,4 @@ Kerja sama Tim
 Teliti
 Detail Oriented
 Problem Solving
+Pendidikan 
