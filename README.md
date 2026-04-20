@@ -41,3 +41,4 @@ Prodi
 Akutansi
 IPK
 3.13
+Pendidikan S2
