@@ -21,3 +21,4 @@ Hard Skills
 microsoft office
 Administrasi Perkantoran
 Manajemen Dokumen & Arsip
+Data Entry
