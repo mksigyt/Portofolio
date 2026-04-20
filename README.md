@@ -19,3 +19,4 @@ Sekretaris
 Karang Taruna
 Hard Skills
 microsoft office
+Administrasi Perkantoran
