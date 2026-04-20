@@ -36,3 +36,4 @@ SMPN 1 Kota
 SMKN 1 Kota
 Jurusan
 Kimia Industri
+Universitas Negeri Kota
