@@ -17,3 +17,4 @@ Wali Kota
 Pt. Maxpos Prima
 Sekretaris
 Karang Taruna
+Hard Skills
