@@ -28,3 +28,4 @@ Komunikasi Efektif
 Manajemen Waktu
 Kerja sama Tim
 Teliti
+Detail Oriented
