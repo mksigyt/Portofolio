@@ -23,3 +23,4 @@ Administrasi Perkantoran
 Manajemen Dokumen & Arsip
 Data Entry
 Penyusunan Laporan
+Soft Skills
