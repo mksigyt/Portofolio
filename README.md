@@ -22,3 +22,4 @@ microsoft office
 Administrasi Perkantoran
 Manajemen Dokumen & Arsip
 Data Entry
+Penyusunan Laporan
