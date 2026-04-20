@@ -39,3 +39,4 @@ Kimia Industri
 Universitas Negeri Kota
 Prodi
 Akutansi
+IPK
