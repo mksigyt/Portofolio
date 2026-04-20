@@ -32,3 +32,4 @@ Detail Oriented
 Problem Solving
 Pendidikan 
 SDN 1 Kota
+SMPN 1 Kota
