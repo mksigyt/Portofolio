@@ -47,3 +47,4 @@ Prodi
 Ilmu Ekonomi
 Fakultas Bisnis
 IPK
+3.2
