@@ -71,3 +71,4 @@ Lumba lumba
 Kelelawar
 Elang
 Burung hantu
+Merpati
