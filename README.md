@@ -55,3 +55,4 @@ Singa
 Kucing
 Anjing
 Kuda
+Sapi
