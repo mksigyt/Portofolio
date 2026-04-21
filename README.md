@@ -64,3 +64,4 @@ Orang utan
 Beruang
 Serigala
 Rubah
+Kanguru
