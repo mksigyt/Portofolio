@@ -62,3 +62,4 @@ Kelinci
 Monyet
 Orang utan
 Beruang
+Serigala
