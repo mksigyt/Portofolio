@@ -94,3 +94,4 @@ Ikan pari
 Ikan mas
 Kuda laut
 Gurita 
+Cumi cumi
