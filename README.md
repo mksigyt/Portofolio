@@ -57,3 +57,4 @@ Anjing
 Kuda
 Sapi
 Kambing
+Domba
