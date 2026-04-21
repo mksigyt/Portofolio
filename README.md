@@ -58,3 +58,4 @@ Kuda
 Sapi
 Kambing
 Domba
+Kelinci
