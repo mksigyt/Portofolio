@@ -98,3 +98,4 @@ Cumi cumi
 Bintang laut
 Ubur ubur
 Kupu kupu
+Lebah
