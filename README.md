@@ -61,3 +61,4 @@ Domba
 Kelinci
 Monyet
 Orang utan
+Beruang
