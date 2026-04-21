@@ -70,3 +70,4 @@ Paus
 Lumba lumba
 Kelelawar
 Elang
+Burung hantu
