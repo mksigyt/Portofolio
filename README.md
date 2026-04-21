@@ -73,3 +73,4 @@ Elang
 Burung hantu
 Merpati
 Kakatua
+Penguin
