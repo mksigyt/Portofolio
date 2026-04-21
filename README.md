@@ -92,3 +92,4 @@ Salamander
 Ikan hiu
 Ikan pari
 Ikan mas
+Kuda laut
