@@ -56,3 +56,4 @@ Kucing
 Anjing
 Kuda
 Sapi
+Kambing
