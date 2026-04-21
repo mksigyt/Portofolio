@@ -52,3 +52,4 @@ SEKIAN
 Harimau
 Gajah
 Singa
+Kucing
