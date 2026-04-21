@@ -76,3 +76,4 @@ Kakatua
 Penguin
 Ayam
 Bebek
+Angsa
