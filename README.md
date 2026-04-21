@@ -79,3 +79,4 @@ Bebek
 Angsa
 Burung unta
 Cendrawasih
+Ular
