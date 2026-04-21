@@ -53,3 +53,4 @@ Harimau
 Gajah
 Singa
 Kucing
+Anjing
