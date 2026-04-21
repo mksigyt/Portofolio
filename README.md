@@ -54,3 +54,4 @@ Gajah
 Singa
 Kucing
 Anjing
+Kuda
