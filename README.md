@@ -99,3 +99,4 @@ Bintang laut
 Ubur ubur
 Kupu kupu
 Lebah
+Tawon
