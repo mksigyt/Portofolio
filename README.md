@@ -50,3 +50,4 @@ IPK
 3.2
 SEKIAN
 Harimau
+Gajah
