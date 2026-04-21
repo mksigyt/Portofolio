@@ -95,3 +95,4 @@ Ikan mas
 Kuda laut
 Gurita 
 Cumi cumi
+Bintang laut
