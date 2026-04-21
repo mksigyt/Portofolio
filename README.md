@@ -59,3 +59,4 @@ Sapi
 Kambing
 Domba
 Kelinci
+Monyet
