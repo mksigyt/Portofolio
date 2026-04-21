@@ -81,3 +81,4 @@ Burung unta
 Cendrawasih
 Ular
 Buaya
+Komodo
