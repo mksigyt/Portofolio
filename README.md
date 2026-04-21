@@ -97,3 +97,4 @@ Gurita
 Cumi cumi
 Bintang laut
 Ubur ubur
+Kupu kupu
