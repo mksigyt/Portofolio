@@ -66,3 +66,4 @@ Serigala
 Rubah
 Kanguru
 Koala
+Paus
