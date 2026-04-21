@@ -67,3 +67,4 @@ Rubah
 Kanguru
 Koala
 Paus
+Lumba lumba
