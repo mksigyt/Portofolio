@@ -65,3 +65,4 @@ Beruang
 Serigala
 Rubah
 Kanguru
+Koala
