@@ -83,3 +83,4 @@ Ular
 Buaya
 Komodo
 Kura kura
+Penyu
