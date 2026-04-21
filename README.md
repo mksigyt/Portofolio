@@ -75,3 +75,4 @@ Merpati
 Kakatua
 Penguin
 Ayam
+Bebek
