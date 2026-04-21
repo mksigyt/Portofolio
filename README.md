@@ -51,3 +51,4 @@ IPK
 SEKIAN
 Harimau
 Gajah
+Singa
