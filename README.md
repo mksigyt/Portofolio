@@ -91,3 +91,4 @@ Katak
 Salamander
 Ikan hiu
 Ikan pari
+Ikan mas
