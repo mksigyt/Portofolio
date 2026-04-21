@@ -63,3 +63,4 @@ Monyet
 Orang utan
 Beruang
 Serigala
+Rubah
