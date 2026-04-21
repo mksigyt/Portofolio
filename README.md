@@ -72,3 +72,4 @@ Kelelawar
 Elang
 Burung hantu
 Merpati
+Kakatua
