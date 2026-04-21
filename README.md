@@ -82,3 +82,4 @@ Cendrawasih
 Ular
 Buaya
 Komodo
+Kura kura
