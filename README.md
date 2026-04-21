@@ -88,3 +88,4 @@ Cicak
 Tokek
 Bunglon
 Katak
+Salamander
