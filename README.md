@@ -80,3 +80,4 @@ Angsa
 Burung unta
 Cendrawasih
 Ular
+Buaya
