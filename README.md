@@ -69,3 +69,4 @@ Koala
 Paus
 Lumba lumba
 Kelelawar
+Elang
