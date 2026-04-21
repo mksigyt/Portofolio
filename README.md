@@ -60,3 +60,4 @@ Kambing
 Domba
 Kelinci
 Monyet
+Orang utan
