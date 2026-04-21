@@ -90,3 +90,4 @@ Bunglon
 Katak
 Salamander
 Ikan hiu
+Ikan pari
