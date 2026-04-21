@@ -84,3 +84,4 @@ Buaya
 Komodo
 Kura kura
 Penyu
+Cicak
