@@ -96,3 +96,4 @@ Kuda laut
 Gurita 
 Cumi cumi
 Bintang laut
+Ubur ubur
