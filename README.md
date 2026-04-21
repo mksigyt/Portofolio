@@ -77,3 +77,4 @@ Penguin
 Ayam
 Bebek
 Angsa
+Burung unta
