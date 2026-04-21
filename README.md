@@ -74,3 +74,4 @@ Burung hantu
 Merpati
 Kakatua
 Penguin
+Ayam
