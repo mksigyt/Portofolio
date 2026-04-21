@@ -85,3 +85,4 @@ Komodo
 Kura kura
 Penyu
 Cicak
+Tokek
